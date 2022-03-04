@@ -1,0 +1,4 @@
+geth/
+keystore/
+/venv/
+.ipynb_checkpoints/
